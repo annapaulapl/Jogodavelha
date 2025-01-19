@@ -54,8 +54,8 @@ class _HomePageState extends State<HomePage> {
                         horizontal: 20.0), // Adiciona o espaço nas laterais
                     child: Container(
                       alignment: Alignment.center,
-                      height: 330, // Ajuste a altura do retângulo
-                      width: 330, // Ajuste a largura do retângulo
+                      height: 350, // Ajuste a altura do retângulo
+                      width: 350, // Ajuste a largura do retângulo
                       decoration: BoxDecoration(
                         color: Colors.pink.shade200,
                         borderRadius: BorderRadius.circular(20),
